@@ -1,3 +1,6 @@
+
+
+
 from operaciones import add 
 from operaciones import subtraction
 from operaciones import multiply
@@ -5,7 +8,7 @@ from operaciones import division
 from operaciones import potencia
 
 def game():
-  score = 0
+  score = 1
   while True:
     print('======== Menu ========'
     '\n1. Add'
